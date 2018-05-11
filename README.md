@@ -1,5 +1,4 @@
 # Welcom To Flaha AG WIKI
-========================================
 ![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/logo.png "FLAHA Logo")
 
 ## FLAHA - AGRICULTURE
@@ -19,6 +18,29 @@ FLAHA is Arabic Word which means Agriculture. To practice agriculture means to u
 3. Plant Nutirion (Fertilizers, Soil Ammendment etc..)
 4. Plant protection (Plant Pathology & Pesticide)
 5. Seeds and Breading (Seeds Variety & Breeding)
+
+
+Licence
+========================================
+FLAHA: A Wiki for Agriculture Practice started by Rafat Al Khashan
+ 
+Copyright (c) 2017-2018, Rafat Al khashan
+
+You should have received a copy of the GNU General Public License along with Ladybug; If not, see <http://www.gnu.org/licenses/>.
+ 
+@license GPL-3.0+ <http://spdx.org/licenses/GPL-3.0+>
+
+
+Useful links
+========================================
+[Main stream FLAHA Org.](http://www.flaha.org)
+
+[FLAHA Page on Facebook](https://www.facebook.com/Flaha.Ag/)
+
+[FLAHA on Twitter](https://twitter.com/Flaha_Ag)
+
+[Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
+========================================
 
 
 
@@ -48,29 +70,3 @@ mkdocs serve -a 0.0.0.0:8000
 
 - Fire up your browser 
 - Point to localhost:8000
-
-
-
-Licence
-========================================
-FLAHA: A Wiki for Agriculture Practice started by Rafat Al Khashan
- 
-Copyright (c) 2017-2018, Rafat Al khashan
-
-You should have received a copy of the GNU General Public License along with Ladybug; If not, see <http://www.gnu.org/licenses/>.
- 
-@license GPL-3.0+ <http://spdx.org/licenses/GPL-3.0+>
-
-
-Useful links
-========================================
-[Main stream FLAHA Org.](http://www.flaha.org)
-
-[FLAHA Page on Facebook](https://www.facebook.com/Flaha.Ag/)
-
-[FLAHA on Twitter](https://twitter.com/Flaha_Ag)
-
-[Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
-========================================
-
-
