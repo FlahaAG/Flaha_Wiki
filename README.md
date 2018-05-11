@@ -1,5 +1,5 @@
 # Welcom To Flaha AG WIKI
-
+========================================
 ![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/logo.png "FLAHA Logo")
 
 ## FLAHA - AGRICULTURE
@@ -13,11 +13,12 @@ FLAHA is Arabic Word which means Agriculture. To practice agriculture means to u
 > **Arabic**: الفِلاَحَةُ : القيامُ بشئون الأرض الزراعية مِنْ حَرْثٍ وزرع وريٍّ ونحو ذلك
 
 
-*we will Build Wiki for Agriculture Divided into the following branches: 
-1. horticultural crops
-2. Floriculture 
-3. Plant Nutirion 
-4. Seeds and Breading 
+- we will Build Wiki for Agriculture Divided into the following branches: 
+1. Horticultural Crops (Hydropoic, Greenhouse & Open Field Crops)
+2. Floriculture (Ornamental Crops, Flower Cut)
+3. Plant Nutirion (Fertilizers, Soil Ammendment etc..)
+4. Plant protection (Plant Pathology & Pesticide)
+5. Seeds and Breading (Seeds Variety & Breeding)
 
 
 
