@@ -1,6 +1,6 @@
 # Welcom To Flaha AG WIKI
 
-![alt text](https://github.com/FlahaAG/Flaha_Wiki/docs/img/raw/master/src/common/images/icon48.png "FLAHA Logo")
+![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/logo.png "FLAHA Logo")
 
 ## FLAHA - AGRICULTURE
 
