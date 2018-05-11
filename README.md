@@ -63,11 +63,11 @@ You should have received a copy of the GNU General Public License along with Lad
 
 Useful links
 ========================================
-[FLAHA group page on FLAHA Org.](http://www.flaha.org)
+[Main stream FLAHA Org.](http://www.flaha.org)
 
-[Facebook page](https://www.facebook.com/Flaha.Ag/)
+[FLAHA Page on Facebook](https://www.facebook.com/Flaha.Ag/)
 
-[Ladybug on Twitter](https://twitter.com/Flaha_Ag)
+[FLAHA on Twitter](https://twitter.com/Flaha_Ag)
 
 [Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
 ========================================
