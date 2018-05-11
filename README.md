@@ -17,7 +17,7 @@ We're always happy to see your PRs!
 2) Build
 ```
 git clone --recursive https://github.com/FlahaAG/Flaha_Wiki.git
-cd navio2-docs
+cd Flaha_Wiki
 mkdocs serve -a 0.0.0.0:8000
 ```
 3) Make changes
