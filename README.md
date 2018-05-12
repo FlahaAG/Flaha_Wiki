@@ -42,7 +42,7 @@ Useful links
 [Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
 ========================================
 
-
+![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/stage.png "FLAHA Strategy Logo")
 
 Development by using MkDocs
 ========================================
