@@ -42,9 +42,6 @@ Useful links
 [Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
 ========================================
 
-!!! note
-    Our Platform under construction and we are working continuasly on weekly base, so every Saturday we will have new update.
-
 ![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/stage_fl.png "FLAHA Strategy Logo")
 
 Development by using MkDocs
