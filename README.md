@@ -44,12 +44,11 @@ Useful links
 
 [FLAHA on Twitter](https://twitter.com/Flaha_Ag)
 
+![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/stage_fl.png "FLAHA Strategy Logo")
+
 [Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors) 
 ![GitHub contributors](https://img.shields.io/github/contributors/FlahaAG/Flaha_Wiki.svg)
 ========================================
-
-![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/stage_fl.png "FLAHA Strategy Logo")
-
 Development by using MkDocs
 ========================================
 ## Overview
