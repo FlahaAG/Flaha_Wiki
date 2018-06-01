@@ -5,6 +5,8 @@
 
 [![Build Status](https://travis-ci.com/FlahaAG/Flaha_Wiki.svg?branch=master)](https://travis-ci.com/FlahaAG/Flaha_Wiki)
 ![license](https://img.shields.io/github/license/FlahaAG/Flaha_Wiki.svg?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/FlahaAG/Flaha_Wiki.svg)
+
 FLAHA is Arabic Word which means Agriculture. To practice agriculture means to use natural resources to "produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services." This definition includes arable farming or agronomy, and horticulture, all terms for the growing of plants, animal husbandry and sometimes forestry.
 
 
