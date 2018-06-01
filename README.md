@@ -4,8 +4,8 @@
 ## FLAHA - AGRICULTURE
 
 [![Build Status](https://travis-ci.com/FlahaAG/Flaha_Wiki.svg?branch=master)](https://travis-ci.com/FlahaAG/Flaha_Wiki)
-![license](https://img.shields.io/github/license/FlahaAG/Flaha_Wiki.svg?style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/FlahaAG/Flaha_Wiki.svg)
+
+
 
 FLAHA is Arabic Word which means Agriculture. To practice agriculture means to use natural resources to "produce commodities which maintain life, including food, fiber, forest products, horticultural crops, and their related services." This definition includes arable farming or agronomy, and horticulture, all terms for the growing of plants, animal husbandry and sometimes forestry.
 
@@ -24,7 +24,7 @@ FLAHA is Arabic Word which means Agriculture. To practice agriculture means to u
 5. Seeds and Breading (Seeds Variety & Breeding)
 
 
-Licence
+Licence ![license](https://img.shields.io/github/license/FlahaAG/Flaha_Wiki.svg?style=plastic)
 ========================================
 FLAHA: A Wiki for Agriculture Practice started by Rafat Al Khashan
  
@@ -43,7 +43,7 @@ Useful links
 
 [FLAHA on Twitter](https://twitter.com/Flaha_Ag)
 
-[Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors)
+[Contributors](https://github.com/FlahaAG/Flaha_Wiki/graphs/contributors) ![GitHub contributors](https://img.shields.io/github/contributors/FlahaAG/Flaha_Wiki.svg)
 ========================================
 
 ![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/stage_fl.png "FLAHA Strategy Logo")
