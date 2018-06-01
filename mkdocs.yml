@@ -3,11 +3,17 @@ theme_dir: docstheme/material
 site_favicon: favicon.ico
 repo_url: https://github.com/FlahaAG/Flaha_Wiki
 
+extra_javascript:
+  - 'javascripts/extra.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 Rafat Al Khashan'
 extra:
   palette:
-    primary: 'light blue'
-    accent: 'light blue'
+    primary: 'Green'
+    accent: 'light Green'
   logo: 'img/logo.png'
+  language: 'en'
   social:
     - type: 'github'
       link: 'https://github.com/FLAHA'
@@ -27,6 +33,18 @@ markdown_extensions:
  - markdown.extensions.footnotes
  - markdown.extensions.meta
  - markdown.extensions.toc(permalink=true)
+ - markdown.extensions.admonition
+ - pymdownx.details
+ - pymdownx.caret
+ - pymdownx.critic
+ - pymdownx.emoji
+ - pymdownx.inlinehilite
+ - pymdownx.mark
+ - pymdownx.arithmatex
+ - pymdownx.smartsymbols
+ - pymdownx.superfences
+ - pymdownx.tasklist
+ - pymdownx.tilde
 
 pages:
 - Introduction : 'index.md'
@@ -35,3 +53,4 @@ pages:
   - 'Plant Nutritio' : 'ag_Fert/Ag_fert.md'
   - 'Soil' : 'ag_Fert/Ag_soil.md'
   
+ 
