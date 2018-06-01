@@ -1,4 +1,5 @@
 # Welcom To Flaha AG WIKI
+![GitHub forks](https://img.shields.io/github/forks/FlahaAG/Flaha_Wiki.svg?style=social&label=Fork)
 ![alt text](https://github.com/FlahaAG/Flaha_Wiki/blob/master/docs/img/logo.png "FLAHA Logo")
 
 ## FLAHA - AGRICULTURE
