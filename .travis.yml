@@ -1,25 +1,2 @@
-language: js
-lein version
-Leiningen 2.8.1 on Java 1.8.0_151 Java HotSpot(TM) 64-Bit Server VM
-Pre-installed Node.js versions
-v4.8.6
-v6.12.0
-v6.12.1
-v8.9
-v8.9.1
-phpenv versions
-  system
-  5.6
-* 5.6.32 (set by /home/travis/.phpenv/version)
-  7.0
-  7.0.25
-  7.1
-  7.1.11
-  hhvm
-  hhvm-stable
-composer --version
-Composer version 1.5.2 2017-09-11 16:59:25
-Pre-installed Ruby versions
-ruby-2.2.7
-ruby-2.3.4
-ruby-2.4.1
+language: JS
+          Shell

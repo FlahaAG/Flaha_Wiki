@@ -3,9 +3,15 @@
 
 [![made-with-FLAHA](https://img.shields.io/badge/Agriculture%20with-FLAHA-00FF00.svg)](http://flaha.org)
 
+
+language : markdown
+
+
+
+
 [![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)](https://github.com/FlahaAG/Flaha_Wiki/commits/master)
 This is a documentation for Flaha Ag Platform - We will Explain the Agriculture Precision from A-Z and provide the most Advanced Topics up to date.
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/Flaha_Ag)
+
 
 !!! note
     {==Our Platform under construction and we are working continuasly on weekly base, so every Saturday we will have new update.==}
